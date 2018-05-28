@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  myfirstdotnetcore:
+    image: ${DOCKER_REGISTRY}myfirstdotnetcore
+    build:
+      context: .
+      dockerfile: MyFirstDotNETCore\Dockerfile
