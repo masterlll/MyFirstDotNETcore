@@ -1,0 +1,12 @@
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\bin\Debug\netcoreapp2.0\MyFirstDotNETCore.deps.json
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\bin\Debug\netcoreapp2.0\MyFirstDotNETCore.runtimeconfig.json
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\bin\Debug\netcoreapp2.0\MyFirstDotNETCore.runtimeconfig.dev.json
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\bin\Debug\netcoreapp2.0\MyFirstDotNETCore.dll
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\bin\Debug\netcoreapp2.0\MyFirstDotNETCore.pdb
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.csprojAssemblyReference.cache
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.csproj.CoreCompileInputs.cache
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.AssemblyInfoInputs.cache
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.AssemblyInfo.cs
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.dll
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.pdb

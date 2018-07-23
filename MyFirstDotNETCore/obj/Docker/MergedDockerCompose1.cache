@@ -33,7 +33,7 @@ services:
     - C:\Users\a3697\AppData\Roaming\ASP.NET\Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
     - C:\Users\a3697\AppData\Roaming\Microsoft\UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
     - D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore:C:\app:rw
-    - C:\Users\a3697\onecoremsvsmon\15.0.27625.0:C:\remote_debugger:ro
+    - C:\Users\a3697\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
     - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:c:\.nuget\fallbackpackages:ro
     - C:\Users\a3697\.nuget\packages:c:\.nuget\packages:ro
 version: '3.4'
