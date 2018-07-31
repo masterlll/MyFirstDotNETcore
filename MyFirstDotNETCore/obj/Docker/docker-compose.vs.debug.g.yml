@@ -13,7 +13,7 @@ services:
       - D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore:C:\app
       - C:\Users\a3697\onecoremsvsmon\15.0.27703.2026:C:\remote_debugger:ro
       - C:\Users\a3697\.nuget\packages\:c:\.nuget\packages:ro
-      - C:\Program Files\dotnet\sdk\NuGetFallbackFolder:c:\.nuget\fallbackpackages:ro
+      - C:\Program Files (x86)\dotnet\sdk\NuGetFallbackFolder:c:\.nuget\fallbackpackages:ro
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
     labels:
       com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""

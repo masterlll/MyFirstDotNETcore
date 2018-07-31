@@ -9,3 +9,4 @@ D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\ne
 D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.AssemblyInfo.cs
 D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.dll
 D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.pdb
+D:\Work\DoNET\MyFirstDotNETcore\MyFirstDotNETCore\MyFirstDotNETCore\obj\Debug\netcoreapp2.0\MyFirstDotNETCore.csprojAssemblyReference.cache
