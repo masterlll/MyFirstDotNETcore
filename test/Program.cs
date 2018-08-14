@@ -14,12 +14,47 @@ namespace test
     {
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
+           
+               Output("Application - Start");
+            var webHost = BuildWebHost(args);
+            Output("Run WebHost");
+           webHost.Run();
+            Output("Application - End");
+           // BuildWebHost(args).Run();
         }
 
-        public static IWebHost BuildWebHost(string[] args) =>
-            WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
-                .Build();
+       // public static iwebhost buildwebhost(string[] args) =>
+            //webhost.createdefaultbuilder(args)
+              //  .usestartup<startup>()
+               // .build();
+
+
+         public static IWebHost BuildWebHost(string[] args)
+        {
+            Output("Create WebHost Builder");
+            var webHostBuilder = WebHost.CreateDefaultBuilder(args)
+                .ConfigureServices(services =>
+                {
+                    Output("webHostBuilder.ConfigureServices - Called");
+                })
+                .Configure(app =>
+                {
+                    Output("webHostBuilder.Configure - Called");
+                })
+                .UseStartup<Startup>();
+
+            Output("Build WebHost");
+            var webHost = webHostBuilder.Build();
+
+            return webHost;
+        }
+
+        public static void Output(string message)
+        {
+            Console.WriteLine($"[{DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss")}] {message}");
+        }
     }
 }
+
+    
+
